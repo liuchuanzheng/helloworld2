@@ -6,6 +6,7 @@ import android.util.Log;
 
 /**
  * Created by Administrator on 2017/3/6.
+ * <br/>这个类是基类，做通用操作，比如打印类名
  */
 
 public class BaseActivity extends AppCompatActivity {

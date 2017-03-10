@@ -37,6 +37,13 @@ public class Main2Activity extends BaseActivity {
         }
     }
 
+    /**
+     * 这是activity的启动方法。写在自己类中，想要什么参数自己定义，方便多人开发
+     * <br/>这是开发习惯，建议大家也这样写
+     * @param context
+     * @param data1
+     * @param data2
+     */
     public static void actionStart(Context context,String data1,String data2){
         Intent intent = new Intent(context,Main2Activity.class);
         intent.putExtra("data1",data1);
