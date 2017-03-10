@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/listview"
+        android:title="listview"></item>
+    <item
+        android:id="@+id/gridview"
+        android:title="gridview"></item>
+    <item
+        android:id="@+id/gridview_h"
+        android:title="gridview_h"></item>
+    <item
+        android:id="@+id/strager"
+        android:title="strager"></item>
+
+</menu>
